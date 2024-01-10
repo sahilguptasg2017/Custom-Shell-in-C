@@ -1,4 +1,4 @@
-# Shell-in-C
+# Custom Shell in C
 This is a custom shell in which we can implement the commands word ,dir and date . 
 1) **word:**
    - It is a built-in (internal) command, Reads the number of words (assume word is a “space-separated” string) in a text file, and throws an error if the file does not exist.
